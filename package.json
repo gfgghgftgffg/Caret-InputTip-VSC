@@ -1,9 +1,9 @@
 {
   "name": "caret-inputtip",
   "displayName": "Caret InputTip",
-  "description": "A VS Code extension that shows a triangle above the caret and tracks it in real-time.",
+  "description": "A VS Code extension that shows a caret tip and tracks it in real-time.",
   "version": "1.0.0",
-  "publisher": "your-publisher-name",
+  "publisher": "gfgghgftgffg",
   "engines": {
     "vscode": "^1.75.0"
   },
